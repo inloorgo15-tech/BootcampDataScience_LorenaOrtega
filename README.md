@@ -16,4 +16,4 @@ Este repositorio contiene los ejercicios, talleres y proyectos desarrollados dur
 * Agregaciones (SUM, COUNT, GROUP BY).
 
 ---
-*Desarrollado por [Ingrith Lorena Ortega Gonzalez - Estudiante de Data Science*
+*Desarrollado por Ingrith Lorena Ortega Gonzalez - Estudiante de Data Science*
